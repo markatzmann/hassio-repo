@@ -1,8 +1,8 @@
 {
   "name": "Emulated HUE",
-  "version": "0.3.0",
+  "version": "0.3.0_Mark",
   "description": "Hue Emulation for Home Assistant",
-  "url": "https://github.com/hass-emulated-hue/core",
+  "url": "https://github.com/markatzmann/core",
   "slug": "emulated_hue",
   "stage": "stable",
   "startup": "application",
@@ -22,5 +22,4 @@
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
   },
-  "image": "ghcr.io/hass-emulated-hue/core"
 }
